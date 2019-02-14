@@ -11,6 +11,7 @@ namespace ConsoleApplication1
         static void Main(string[] args)
         {
             string s = "12321asasasasasas313213";
+            string asa = "asasdasd";
         }
     }
 }
